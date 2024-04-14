@@ -3,7 +3,7 @@
 #include <limits.h>
 #include <stdbool.h>
 
-//testing gcm
+//testing gcm v2
 
 #define MAX_VERTICES 100
 
