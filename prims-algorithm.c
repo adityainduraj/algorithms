@@ -3,6 +3,8 @@
 #include <limits.h>
 #include <stdbool.h>
 
+//testing gcm
+
 #define MAX_VERTICES 100
 
 int minKey(int key[], bool mstSet[], int V) {
