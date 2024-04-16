@@ -64,3 +64,14 @@ int main() {
 
     return 0;
 }
+
+/*
+sample inputs
+Enter the number of vertices: 5
+Enter the graph matrix (5 x 5):
+0 2 0 6 0
+2 0 3 8 5
+0 3 0 0 7
+6 8 0 0 9
+0 5 7 9 0
+*/

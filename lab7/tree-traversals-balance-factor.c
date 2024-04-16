@@ -107,3 +107,14 @@ int main() {
 
     return 0;
 }
+
+/*
+sample inputs
+Enter the number of elements: 5
+Enter the elements:
+10
+5
+15
+2
+12
+*/
